@@ -1,0 +1,5 @@
+glslang: used by the ShaderValidator
+Hiero: creates custom fonts for the engine
+launch4j: generates an exe launcher for a java application
+lwjglx: java debugging agent, how to use in the folder
+Remotery Viewer: browser viewer for the Remotery profiling library
