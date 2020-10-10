@@ -1,3 +1,3 @@
 cd ..
-java -cp "lib/*" osyfe.tool.ModelEditor
+java -cp "lib/bin/*" osyfe.tool.ModelEditor
 pause

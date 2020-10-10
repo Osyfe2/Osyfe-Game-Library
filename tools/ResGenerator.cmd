@@ -1,3 +1,3 @@
 cd ..
-java -cp "lib/*" osyfe.tool.ResGenerator data src name package
+java -cp "lib/bin/*" osyfe.tool.ResGenerator data src name package
 pause

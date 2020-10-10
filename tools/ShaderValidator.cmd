@@ -1,3 +1,3 @@
 cd ..
-java -cp "lib/*" osyfe.tool.ShaderValidator
+java -cp "lib/bin/*" osyfe.tool.ShaderValidator
 pause
