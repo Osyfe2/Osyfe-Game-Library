@@ -1,1 +1,0 @@
--javaagent:tools/lwjglx/lwjglx-debug-1.0.0.jar
